@@ -54,7 +54,7 @@ If you prefer a managed hosted solution check out [tadata.com](https://tadata.co
 We recommend using [uv](https://docs.astral.sh/uv/), a fast Python package installer:
 
 ```bash
-    uv add fastapi-m
+      uv add fastapi- uv add fastapi-mcp
 ```
 
 Alternatively, you can install with pip:
