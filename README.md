@@ -1,3 +1,4 @@
+  
 #<p align="center"><a href="https://github.com/tadata-org/fastapi_mcp"><img src="https://github.com/user-attachments/assets/7e44e98b-a0ba-4aff-a68a-4ffee3a6189c" alt="fastapi-to-mcp" height=100/></a></p>
 
 <div align="center">
@@ -53,7 +54,7 @@ If you prefer a managed hosted solution check out [tadata.com](https://tadata.co
 We recommend using [uv](https://docs.astral.sh/uv/), a fast Python package installer:
 
 ```bash
-uv add fastapi-mcp
+    uv add fastapi-m
 ```
 
 Alternatively, you can install with pip:
